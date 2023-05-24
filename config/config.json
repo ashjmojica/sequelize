@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": W0wtiger.,
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": W0wtiger.,
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": W0wtiger.,
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
