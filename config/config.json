@@ -2,21 +2,21 @@
   "development": {
     "username": "postgres",
     "password": W0wtiger.,
-    "database": "database_development",
+    "database": "fintec_development",
     "host": "localhost",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
     "password": W0wtiger.,
-    "database": "database_test",
+    "database": "fintec_test",
     "host": "localhost",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
     "password": W0wtiger.,
-    "database": "database_production",
+    "database": "fintec_production",
     "host": "localhost",
     "dialect": "postgres"
   }
