@@ -18,3 +18,4 @@ module.exports = (DataTypes, sequelize)=>{
   });
 
 return User;
+}
